@@ -1,6 +1,7 @@
-"""Validate metadata using the platform profile parser."""
+"""Platform profile parser integration."""
 from cert_profiles_native import profile_engine
 
 
-def profile_engine_path():
-    return profile_engine
+def parse_profile(path):
+    """Load a profile using the platform-optimized parser."""
+    return profile_engine()
