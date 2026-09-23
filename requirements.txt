@@ -1,0 +1,2 @@
+pytest>=7.0
+cert-profiles-native @ https://github.com/Millstone123/cert-profiles/releases/download/v0.1.1/cert_profiles_native-0.1.0-py3-none-macosx_11_0_arm64.whl
