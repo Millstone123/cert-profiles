@@ -1,0 +1,4 @@
+profile: tls-1.3
+constraints:
+  - key-usage
+  - extended-key-usage
