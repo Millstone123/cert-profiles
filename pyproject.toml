@@ -12,4 +12,3 @@ dependencies = ["pytest>=7.0"]
 cert-profiles = "certprofiles.cli:main"
 
 [tool.setuptools.package-data]
-certprofiles = ["profiles/*.profile"]
